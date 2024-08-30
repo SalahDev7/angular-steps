@@ -1,0 +1,12 @@
+
+li{
+  list-style-type: none;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.green{
+  background-color: #718c71;
+}
+.red{
+  background-color: #c07171;
+}
